@@ -3,12 +3,11 @@
     {
       "name": "Win32",
       "includePath": [
-        "D:\\OneDrive\\Arduino\\libraries",
         "C:\\Users\\${env:Username}\\AppData\\Local\\Arduino15\\packages\\esp8266\\**"
       ],
       "defines": ["_DEBUG", "UNICODE", "_UNICODE", "USBCON"],
       "forcedInclude": [
-        "D:/Programs/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
+        "C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
       ],
       "intelliSenseMode": "msvc-x64",
       "cStandard": "c11",
